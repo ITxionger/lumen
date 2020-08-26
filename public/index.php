@@ -24,5 +24,6 @@ $app = require __DIR__.'/../bootstrap/app.php';
 | and wonderful application we have prepared for them.
 |
 */
+$a = 1;
 
 $app->run();
